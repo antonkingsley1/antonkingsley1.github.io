@@ -7,7 +7,7 @@ I am a first-year Computer Science major at CSUF, and I plan to graduate in 2029
 
 Lab 2: 
 
-    The reason I liked this lab a lot even though it’s a simple introduction to git is because it showed me that a tool like this will be used a lot throughout my journey as a programmer. This is because a major part of being a programmer is knowing how to collaborate with your peers, and tools like git make it easier for this process to go smoothly. This is because git allows you to save snapshots of your code to a singular repository that contains all your work for a particular task or lab, and it allows your peers to see what you did and what needs improvement.
+    I liked this lab a lot even though it’s a simple introduction to git is because it showed me that a tool like this will be used a lot throughout my journey as a programmer. This is because a major part of being a programmer is knowing how to collaborate with your peers, and tools like git make it easier for this process to go smoothly. This is because git allows you to save snapshots of your code to a singular repository that contains all your work for a particular task or lab, and it allows your peers to see what you did and what needs improvement.
 
  Lab 7:
 
