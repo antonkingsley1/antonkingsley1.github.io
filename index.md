@@ -7,7 +7,7 @@ I am a first-year Computer Science major at CSUF, and I plan to graduate in 2029
 
 * Lab 7:
 
-    This is another one of my favorite labs of the semester because it made me realize that there is more to vectors than I initially thought. At first, I believed it could only hold values with primitive data types, then this lab and the lecture that preceded it made me realize a vector can also contain another vector, otherwise known as a 2D vector. Such a revelation possessed somewhat of a “wow” factor to it, as it made me learn something that I never thought about. 
+    This is one of my favorite labs of the semester because it made me realize that there is more to vectors than I initially thought. At first, I believed it could only hold values with primitive data types, then this lab and the lecture that preceded it made me realize a vector can also contain another vector, otherwise known as a 2D vector. Such a revelation possessed somewhat of a “wow” factor to it, as it made me learn something that I never thought about. 
 
 * Lab 8, Part 2: 
 
