@@ -1,7 +1,7 @@
 
 # Anton Kingsley's Portfolio
 
-I am a first-year Computer Science major at CSUF, and I plan to graduate in 2029.
+I am a first-year Computer Science major at CSUF, and I plan to graduate in 2029. My GitHub profile link is: https://github.com/antonkingsley1
 
 ## Favorite labs
 
