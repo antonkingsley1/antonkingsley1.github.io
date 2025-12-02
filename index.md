@@ -7,16 +7,16 @@ I am a first-year Computer Science major at CSUF, and I plan to graduate in 2029
 
 * Lab 2: 
 
-    I liked this lab a lot even though it’s a simple introduction to git is because it showed me that a tool like this will be used a lot throughout my journey as a programmer. 
+    I liked this lab a lot even though it’s a simple introduction to git because it showed me that a tool like this will be used a lot throughout my journey as a programmer. 
     This is because a major part of being a programmer is knowing how to collaborate with your peers, and tools like git make it easier for this process to go smoothly. 
     This is because git allows you to save snapshots of your code to a singular repository that contains all your work for a particular task or lab, and it allows your peers to see 
-    what you did and what needs improvement.
+    what you did and what needs improvement so that they may also contribute.
 
  * Lab 7:
 
-    This is another one of my favorite labs of the semester because it made me realize that there is more to vectors than I initially thought. At first, I believed it could 
+    This is another one of my favorite labs of the semester because it made me realize that there is more to vectors than I initially thought. At first, I believed a vector could 
     only hold values with primitive data types, then this lab and the lecture that preceded it made me realize a vector can also contain another vector, otherwise known as a 2D vector. 
-    Such a revelation possessed somewhat of a “wow” factor to it, as it made me learn something that I never thought about. 
+    Such a revelation possessed somewhat of a “wow” factor, as it made me learn something that I never thought about. 
 
 * Lab 8, Part 2: 
 
